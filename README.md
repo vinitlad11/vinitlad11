@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinitlad11
 - 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Pyhton Projects.
+- 🌱 I’m currently learning Deep Learning.
+- 💞️ I’m looking to collaborate on Python Projects.
 - 📫 Ping me @ vinitlad21117@gmail.com.
 
 <!---
